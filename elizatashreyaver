@@ -121,7 +121,7 @@ const FACTS = {
   whereSZB: "Lecture room: SZB 2.802."
   name: "My name is Eliza TA!"
   you: "I am doing excellent"
-  friend: "you are my friend"
+  friend: "you are my friend!"
 };
 
 const FAQ_RULES = [
