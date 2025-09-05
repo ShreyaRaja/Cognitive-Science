@@ -119,6 +119,9 @@ const FACTS = {
   final: "There is an in-class final.",
   whereRLP: "RLP = Robert L. Patton Hall (rooms used: 0.122, 0.106; office RLP 4.708).",
   whereSZB: "Lecture room: SZB 2.802."
+  name: "My name is Eliza TA!"
+  you: "I am doing excellent"
+  friend: "you are my friend"
 };
 
 const FAQ_RULES = [
